@@ -1,0 +1,16 @@
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --pink-600: #db2777;
+}
+
+body {
+  @apply bg-pink-50 font-sans;
+}
+
+h1,h2,h3 {
+  @apply font-bold text-pink-700;
+}
