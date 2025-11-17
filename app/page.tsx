@@ -47,6 +47,8 @@ export default function HomePage() {
     <>
     <Head>
       <meta name="google-site-verification" content="yums1gJcIOtA63t_79prjEM0U0j07Qbis2xRM3Z-wMA" />
+
+      
     </Head>
     <div className="max-w-7xl mx-auto px-4 py-8">
       {/* Hero Section */}
