@@ -6,6 +6,9 @@ import Footer from '@/components/Footer';
 export const metadata = {
   title: 'Chocolover | Pastelería Online',
   description: 'Ecommerce de tortas y postres artesanales',
+  verification: {
+    google: 'yums1gJcIOtA63t_79prjEM0U0j07Qbis2xRM3Z-wMA',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
